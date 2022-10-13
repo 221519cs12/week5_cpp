@@ -56,7 +56,6 @@ int main(int argc, char const *argv[]) {
   // }
 
   // Problem 6
-  // Write a program in C++ to input integers by user and find the maximum among them. Stop when user enters 0.
   // int num, max = 0;
   // cout << "Enter a number: ";
   // cin >> num;
